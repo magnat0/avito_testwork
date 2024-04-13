@@ -8,7 +8,7 @@
 
 1. Склонировать репозиторий
 
-```git clone ```
+```git clone https://github.com/magnat0/avito_testwork.git```
 
 2. Перейти в директорию проекта
 
