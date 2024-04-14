@@ -9,7 +9,7 @@ class EcoImpactPage:
         
         def handle_request(route):
                 
-                with open('data.json', 'r') as f:
+                with open('api_responce.json', 'r') as f:
                     json_data = json.load(f) 
 
                 for key in json_data['result']['blocks']['personalImpact']['data'].keys():
